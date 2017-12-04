@@ -1,8 +1,12 @@
-# SAMS - SALINITY MONITORING SYSTEM
+# SAMS  
 ======
 
-In Vietnam, there is a growing problem of increasingly unstable salinity intrusion levels. Therefore, it is imperative that there exists a reliable real-time monitoring system for salinity levels.
+SALINITY MONITORING SYSTEM
 ------
+
+In Vietnam, there is a growing problem of increasingly unstable salinity intrusion levels. Therefore, it is imperative that there exists a reliable real-time monitoring system for salinity levels.
+
+
 There are 5 drones currently out in the field and collecting data. However, they are misplaced. You must help fix this problem by relocating these drones to these designated coordinates:
 
 
