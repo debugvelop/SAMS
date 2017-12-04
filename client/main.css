@@ -1,0 +1,35 @@
+/* CSS declarations go here */
+html, body{
+  height: 100%;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  display: flex;
+}
+
+#render-target{
+  display: flex;
+  flex: 1;
+  height: 100%;
+}
+
+.map-container{
+  display: flex;
+  flex: 1;
+  height: 550px;
+  width: "100%";
+}
+
+div[data-reactroot]{
+  display:flex;
+  flex:1;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+#lool{
+  width: 100%;
+}
