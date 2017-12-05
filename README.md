@@ -39,7 +39,7 @@ This project is developed with Javascript using the Meteor framework. As dictate
 
 For completion of this task, here are some crucial information you must know:
 
-1. The database name is drones
+1. The database name is `drones`
 2. The data structure (or mongo document structure) of each drone is as follows:  
 
 ```
