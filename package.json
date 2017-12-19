@@ -1,9 +1,23 @@
 {
   "name": "SAMS",
+  "version": "1.0.1",
+  "description": "SAMS(SALINITY MONITORING SYSTEM) monitors water salinity(salt content) using drones to solve water salinity problem in Vietnam",
   "private": true,
   "scripts": {
     "start": "meteor run"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scorelab/SAMS.git"
+  },
+  "keywords": ["water", "salinity", "vietnam", "drones"],
+  "author": "https://github.com/Thuan2000",
+  "license": "",
+  "contributors": ["https://github.com/Thuan2000"],
+  "bugs": {
+    "url": "https://github.com/scorelab/SAMS/issues"
+  },
+  "homepage": "https://github.com/scorelab/SAMS",
   "dependencies": {
     "babel-runtime": "^6.20.0",
     "fibers": "^2.0.0",
