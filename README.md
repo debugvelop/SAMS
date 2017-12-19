@@ -28,8 +28,8 @@ In order to do this, you must:
 5. Run `npm install --save fibers`
 6. Run `meteor run`
 7. Run `meteor mongo`
-8. Import data dump into your current MongoDB instance by running `mongorestore -h 127.0.0.1 --port 3001 -d meteor dump/meteor`
-9. ---- [CONTINUE TO RUN YOUR COMMANDS] -----
+8. On a separate terminal, import data dump into your current MongoDB instance by running `mongorestore -h 127.0.0.1 --port 3001 -d meteor dump/meteor`
+9. ---- [CONTINUE TO RUN YOUR COMMANDS] (inside the terminal from which you ran `meteor mongo`) -----
 10. Submit a screenshot of your completed work and submit for task review.
 
 
