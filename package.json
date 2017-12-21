@@ -5,6 +5,11 @@
   "scripts": {
     "start": "meteor run"
   },
+  
+  "bugs": "https://github.com/scorelab/SAMS/issues",
+  "description": "Salinity monitoring system",
+  "author": "SCoRe Community",
+  
   "dependencies": {
     "babel-runtime": "^6.20.0",
     "fibers": "^2.0.0",
