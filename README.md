@@ -5,6 +5,7 @@ SALINITY MONITORING SYSTEM
 ------
 VERSION 1.0.2
 
+
 In Vietnam, there is a growing problem of increasingly unstable salinity intrusion levels. Therefore, it is imperative that there exists a reliable real-time monitoring system for salinity levels.
 
 
@@ -26,14 +27,16 @@ In order to do this, you must:
 1. Clone this repo
 2. Install Meteor [Click on link here](https://www.meteor.com)
 3. In the root folder, run `meteor npm install --save`
-4. Run `meteor run`
-5. Run `meteor mongo`
-6. ---- [CONTINUE TO RUN YOUR COMMANDS] -----
-7. Submit a screenshot of your completed work and submit for task review.
+5. Run `npm install --save fibers`
+6. Run `meteor run`
+7. Run `meteor mongo`
+8. On a separate terminal, import data dump into your current MongoDB instance by running `mongorestore -h 127.0.0.1 --port 3001 -d meteor dump/meteor`
+9. ---- [CONTINUE TO RUN YOUR COMMANDS] (inside the terminal from which you ran `meteor mongo`) -----
+10. Submit a screenshot of your completed work and submit for task review.
 
 
 ======
-## MORE INFORMATION
+## MORE TASK INFORMATION
 
 This project is developed with Javascript using the Meteor framework. As dictated by Meteor, MongoDB syntax is used for the database.
 
