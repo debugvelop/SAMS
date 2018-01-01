@@ -3,7 +3,8 @@
 
 SALINITY MONITORING SYSTEM 
 ------
-VERSION 1.0.1
+VERSION 1.0.2
+
 
 In Vietnam, there is a growing problem of increasingly unstable salinity intrusion levels. Therefore, it is imperative that there exists a reliable real-time monitoring system for salinity levels.
 

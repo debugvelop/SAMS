@@ -1,13 +1,12 @@
 {
   "name": "SAMS",
+
   "description": "SAMS(SALINITY MONITORING SYSTEM) monitors water salinity(salt content) using drones to solve water salinity problem in Vietnam",
   "version": "1.3.0",
   "private": true,
   "scripts": {
     "start": "meteor run"
   },
-
-  
   "bugs": "https://github.com/scorelab/SAMS/issues",
   "description": "Salinity monitoring system",
   "author": "SCoRe Community"
